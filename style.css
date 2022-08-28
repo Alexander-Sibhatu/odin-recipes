@@ -1,0 +1,26 @@
+
+.heading {
+    border: solid 3px #01074e;
+    margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 11px;
+    text-align: center;
+    font-size: 35px;
+    transition: border-width 0.8s linear;
+}
+
+.heading:hover { border-width: 10px; }
+
+
+.Front.Image {
+    text-align: center;
+    height: 50px;
+    width: auto;
+}
+
+.rechnung {
+    border-color: #01074e;
+    border-width: 10px;
+    border-style: groove;
+    border: 50px;
+}
